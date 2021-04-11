@@ -1,0 +1,10 @@
+{
+"staffmode.enabled": "You are now in staffmode",
+"staffmode.disabled": "You are no longer in staffmode",
+"staffmode.stayInStaffMode": "You have to stay in staffmode since the round already begun",
+"staffmode.visible": "VISIBLE",
+"staffmode.hidden": "HIDDEN",
+"permissions.higherStaffIsOnline": "player with higher rank is online",
+"permissions.gameIsAlreadyStarting": "game is already starting",
+"permissions.roundHasBeenStarted": "round has been forcestarted"
+}
