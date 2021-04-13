@@ -81,9 +81,13 @@
   "endermage.invincibilityExpired": "&cYou are no longer invincible.",
   "grappler.inCombat": "&cGrappler boost was weaker due to being in combat.",
   "archer.hit": "&f{name} has {hearts} \u2764",
-  "archer.description": "&fBow + Arrows",
-  "poseidon.description": "&fTrident + Rain",
-  "gardener.description": "&fSpawn sweet berry bushes",
-  "beequeen.description": "&fBee goes brrrrrr",
+  "archer.description": "#&fBow + Arrows",
+  "poseidon.description": "#&fTrident + Rain",
+  "gardener.description": "#&fSpawn sweet berry bushes",
+  "beequeen.description": "#&fBee goes brrrrrr",
+  "hulk.description": "#&fYou are able to pickup and throw enemies",
+  "phantom.description": "#&fGlide like having an elytra",
+  "analyst.description": "#&fDisplay stats of your enemys:#soups, recraft, cps",
+  "kangaroo.description": "#&fJump jump jump",
   "poseidon.rain": "&fPoseidon Rain"
 }

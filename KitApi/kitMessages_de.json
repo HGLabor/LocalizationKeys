@@ -80,9 +80,13 @@
   "endermage.invincibilityExpired": "&cDeine Endermage bedingte Unverwundbarkeit ist hinüber",
   "grappler.inCombat": "&cDu befindest dich im Kampf, dein Grappler-Boost ist nun schwächer!",
   "archer.hit": "{name} hat {hearts} \u2764",
-  "archer.description": "&fBogen + Pfeile",
-  "poseidon.description": "&fDreizack + Regen",
-  "gardener.description": "&fSpawne sweet berry bushes",
-  "beequeen.description": "&fBienen machen bssssss",
-  "poseidon.rain": "&fPoseidon Rain"
+  "archer.description": "#&fBogen + Pfeile",
+  "poseidon.description": "#&fDreizack + Regen",
+  "gardener.description": "#&fSpawne sweet berry bushes",
+  "beequeen.description": "#&fBienen machen bssssss",
+  "hulk.description": "#&fDu kannst Gegner aufheben und wegwerfen",
+  "phantom.description": "#&fGleite als hättest du eine Elytra",
+  "analyst.description": "#&fZeige die Stats deines Gegners an:#Soups, Recraft und CPS",
+  "kangaroo.description": "#&fSpringe wie ein Känguru",
+  "poseidon.rain": "&fPoseidon Regen"
 }
