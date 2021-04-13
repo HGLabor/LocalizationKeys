@@ -79,5 +79,10 @@
   "endermage.alreadySearching": "&cEs wird bereits nach zu teleportierenden Spielern gesucht.",
   "endermage.invincibilityExpired": "&cDeine Endermage bedingte Unverwundbarkeit ist hinüber",
   "grappler.inCombat": "&cDu befindest dich im Kampf, dein Grappler-Boost ist nun schwächer!",
-  "archer.hit": "{heart}"
+  "archer.hit": "{name} hat {heart} \u2764",
+  "archer.description": "&fBogen + Pfeile",
+  "poseidon.description": "&fDreizack + Regen",
+  "gardener.description": "&fSpawne sweet berry bushes",
+  "beequeen.description": "&fBienen machen bssssss",
+  "poseidon.rain": "&fPoseidon Rain"
 }
