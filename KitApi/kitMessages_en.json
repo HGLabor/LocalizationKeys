@@ -1,5 +1,5 @@
 {
-  "kitSelection.pickMessage": "&7You picked &b${Name}",
+  "kitSelection.pickMessage": "&7You picked &b${kitName}",
   "kit.cooldown": "&7You are still on cooldown for &b${numberInSeconds} &7seconds",
   "kit.disabled": "&c temporarily disabled",
   "kit.spamPrevention": "&cYou cant spam this kit",

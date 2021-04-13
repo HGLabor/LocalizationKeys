@@ -1,5 +1,5 @@
 {
-  "kitSelection.pickMessage": "&7Du hast das Kit &b${Name} &7gewählt",
+  "kitSelection.pickMessage": "&7Du hast das Kit &b${kitName} &7gewählt",
   "kit.cooldown": "&7Deine Fähigkeit hat noch &b${numberInSeconds} &7Sekunden Cooldown",
   "kit.disabled": "&cDieses Kit ist &4temporär deaktiviert",
   "kit.spamPrevention": "&cDu kannst dieses Kit nicht so häufig verwenden",
