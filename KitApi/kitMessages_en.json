@@ -80,7 +80,7 @@
   "endermage.alreadySearching": "&cYou are already searching.",
   "endermage.invincibilityExpired": "&cYou are no longer invincible.",
   "grappler.inCombat": "&cGrappler boost was weaker due to being in combat.",
-  "archer.hit": "&f{name} has {heart} \u2764",
+  "archer.hit": "&f{name} has {hearts} \u2764",
   "archer.description": "&fBow + Arrows",
   "poseidon.description": "&fTrident + Rain",
   "gardener.description": "&fSpawn sweet berry bushes",
