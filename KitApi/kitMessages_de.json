@@ -88,5 +88,6 @@
   "phantom.description": "#&fGleite als hättest du eine Elytra",
   "analyst.description": "#&fZeige die Stats deines Gegners an:#Soups, Recraft und CPS",
   "kangaroo.description": "#&fSpringe wie ein Känguru",
-  "poseidon.rain": "&fPoseidon Regen"
+  "poseidon.rain": "&fPoseidon Regen",
+  "skyBorder.limit": "Maximale Bauhöhe erreicht."
 }

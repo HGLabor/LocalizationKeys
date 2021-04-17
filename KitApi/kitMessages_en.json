@@ -89,5 +89,6 @@
   "phantom.description": "#&fGlide like having an elytra",
   "analyst.description": "#&fDisplay stats of your enemys:#soups, recraft, cps",
   "kangaroo.description": "#&fJump jump jump",
-  "poseidon.rain": "&fPoseidon Rain"
+  "poseidon.rain": "&fPoseidon Rain",
+  "skyBorder.limit": "Max build height."
 }
